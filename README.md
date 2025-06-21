@@ -32,15 +32,11 @@ Welcome to my interactive and animated **Intro Page** project! This webpage is b
 
 ## 📂 File Structure
 
-/your-project-folder
--**├── index.html # Main HTML file**
--**├── styles.css # CSS for layout and animations**
--**├── cursors.js # JavaScript for cursor trail animation**
--**├── Capture.PNG # Your profile image**
-
-yaml
-Copy
-Edit
+- **/your-project-folder**
+- **├── index.html # Main HTML file**
+- **├── styles.css # CSS for layout and animations**
+- **├── cursors.js # JavaScript for cursor trail animation**
+- **├── Capture.PNG # Your profile image**
 
 ---
 
