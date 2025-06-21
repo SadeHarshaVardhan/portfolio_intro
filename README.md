@@ -19,6 +19,8 @@ Welcome to my interactive and animated **Intro Page** project! This webpage is b
 
 ![image](https://github.com/user-attachments/assets/60865ca8-4bc9-4343-b27a-ee130da03263)
 
+![Live Demo](./intro_gif.gif)
+
 
 ---
 
