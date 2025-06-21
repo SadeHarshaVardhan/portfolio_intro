@@ -63,12 +63,6 @@ Welcome to my interactive and animated **Intro Page** project! This webpage is b
 
 ---
 
-## 📄 License
-
-This project is open-source and free to use under the [MIT License](LICENSE).
-
----
-
 ## 💬 Feedback
 
 Have suggestions or want to collaborate? Feel free to open an issue or connect via GitHub!
