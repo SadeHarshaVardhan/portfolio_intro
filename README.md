@@ -19,7 +19,6 @@ Welcome to my interactive and animated **Intro Page** project! This webpage is b
 
 ![image](https://github.com/user-attachments/assets/60865ca8-4bc9-4343-b27a-ee130da03263)
 
-> *(Replace with a screenshot of your page for better presentation)*
 
 ---
 
@@ -34,10 +33,10 @@ Welcome to my interactive and animated **Intro Page** project! This webpage is b
 ## 📂 File Structure
 
 /your-project-folder
--├── index.html # Main HTML file
--├── styles.css # CSS for layout and animations
--├── cursors.js # JavaScript for cursor trail animation
--├── Capture.PNG # Your profile image
+-**├── index.html # Main HTML file**
+-**├── styles.css # CSS for layout and animations**
+-**├── cursors.js # JavaScript for cursor trail animation**
+-**├── Capture.PNG # Your profile image**
 
 yaml
 Copy
